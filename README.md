@@ -8,6 +8,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 Users should be able to:
 
+-   Solution URL: [My solution page](https://www.frontendmentor.io/solutions/blog-preview-card-html-css-EMvehCKaRL)
 -   See hover and focus states for all interactive elements on the page
 
 ### Screenshot
